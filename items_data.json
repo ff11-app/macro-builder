@@ -1,0 +1,56 @@
+[
+  {"name": "ポーション", "cmd": "/item ポーション", "category": "HP回復"},
+  {"name": "ハイポーション", "cmd": "/item ハイポーション", "category": "HP回復"},
+  {"name": "エクスポーション", "cmd": "/item エクスポーション", "category": "HP回復"},
+  {"name": "ワークスポーション", "cmd": "/item ワークスポーション", "category": "HP回復"},
+  {"name": "ハイパーポーション", "cmd": "/item ハイパーポーション", "category": "HP回復"},
+  {"name": "マキシポーション", "cmd": "/item マキシポーション", "category": "HP回復"},
+  
+  {"name": "エーテル", "cmd": "/item エーテル", "category": "MP回復"},
+  {"name": "ハイエーテル", "cmd": "/item ハイエーテル", "category": "MP回復"},
+  {"name": "スーパーエーテル", "cmd": "/item スーパーエーテル", "category": "MP回復"},
+  {"name": "ワークスエーテル", "cmd": "/item ワークスエーテル", "category": "MP回復"},
+  {"name": "ハイパーエーテル", "cmd": "/item ハイパーエーテル", "category": "MP回復"},
+  {"name": "プロエーテル", "cmd": "/item プロエーテル", "category": "MP回復"},
+  
+  {"name": "エリクサー", "cmd": "/item エリクサー", "category": "全回復"},
+  {"name": "ハイエリクサー", "cmd": "/item ハイエリクサー", "category": "全回復"},
+  {"name": "バイルエリクサー", "cmd": "/item バイルエリクサー", "category": "全回復"},
+  {"name": "バイルエリクサー+1", "cmd": "/item バイルエリクサー+1", "category": "全回復"},
+  
+  {"name": "リレイザー", "cmd": "/item リレイザー", "category": "リレイズ"},
+  {"name": "ハイリレイザー", "cmd": "/item ハイリレイザー", "category": "リレイズ"},
+  {"name": "スーパーリレイザー", "cmd": "/item スーパーリレイザー", "category": "リレイズ"},
+  {"name": "呪符リレイズ", "cmd": "/item 呪符リレイズ", "category": "リレイズ"},
+  {"name": "呪符リレイズIII", "cmd": "/item 呪符リレイズIII", "category": "リレイズ"},
+  
+  {"name": "毒消し", "cmd": "/item 毒消し", "category": "状態異常回復"},
+  {"name": "目薬", "cmd": "/item 目薬", "category": "状態異常回復"},
+  {"name": "やまびこ薬", "cmd": "/item やまびこ薬", "category": "状態異常回復"},
+  {"name": "消化薬", "cmd": "/item 消化薬", "category": "状態異常回復"},
+  {"name": "聖水", "cmd": "/item 聖水", "category": "状態異常回復"},
+  {"name": "祝聖水", "cmd": "/item 祝聖水", "category": "状態異常回復"},
+  {"name": "万能薬", "cmd": "/item 万能薬", "category": "状態異常回復"},
+  {"name": "パナケイア", "cmd": "/item パナケイア", "category": "状態異常回復"},
+  {"name": "万能膏", "cmd": "/item 万能膏", "category": "状態異常回復"},
+  
+  {"name": "毒薬", "cmd": "/item 毒薬", "category": "状態異常・毒付与"},
+  {"name": "猛毒薬", "cmd": "/item 猛毒薬", "category": "状態異常・毒付与"},
+  {"name": "蛇毒薬", "cmd": "/item 蛇毒薬", "category": "状態異常・毒付与"},
+  {"name": "しびれ薬", "cmd": "/item しびれ薬", "category": "状態異常付与"},
+  {"name": "昏睡薬", "cmd": "/item 昏睡薬", "category": "TP溜め・特殊"},
+  {"name": "沈黙薬", "cmd": "/item 沈黙薬", "category": "状態異常付与"},
+  {"name": "静黙薬", "cmd": "/item 静黙薬", "category": "状態異常付与"},
+  {"name": "暗闇薬", "cmd": "/item 暗闇薬", "category": "状態異常付与"},
+  {"name": "溶解薬", "cmd": "/item 溶解薬", "category": "状態異常付与"},
+  {"name": "融解薬", "cmd": "/item 融解薬", "category": "状態異常付与"},
+  
+  {"name": "サイレントオイル", "cmd": "/item サイレントオイル", "category": "スニーク/インビジ"},
+  {"name": "プリズムパウダー", "cmd": "/item プリズムパウダー", "category": "スニーク/インビジ"},
+  {"name": "デオドライザー", "cmd": "/item デオドライザー", "category": "消臭"},
+  {"name": "レインボーパウダー", "cmd": "/item レインボーパウダー", "category": "スニーク/インビジ"},
+  {"name": "透明薬", "cmd": "/item 透明薬", "category": "スニーク/インビジ"},
+  
+  {"name": "妙薬", "cmd": "/item 妙薬", "category": "特殊薬品"},
+  {"name": "イカロスウィング", "cmd": "/item イカロスウィング", "category": "TP増加"}
+]
